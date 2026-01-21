@@ -1,0 +1,215 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Orbitron:wght@400..900&display=swap');
+
+
+
+
+
+body
+{
+    background: rgba(0, 0, 0, 0.856);
+    margin: 0px;
+}
+
+
+header
+{
+    background: rgb(254, 255, 255);
+    text-align: center;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    margin: auto;
+    margin-top: 0px;
+    border-radius: 5px;
+    color: rgb(3, 3, 3);
+    font-size: 20px;
+    
+}
+
+h1#tx{
+    background: rgb(77, 163, 212);
+    max-width: 550px;
+    min-width: 320px;
+    margin: auto;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Jersey 10';
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+
+nav
+{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+
+ a.lk
+{
+    color: rgb(0, 0, 0);
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',Arial, sans-serif;
+    transition: 0.5s;
+}
+
+a.lk:hover 
+{
+    background: rgb(35, 156, 226);
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px;
+}
+
+
+main
+{
+    background: rgb(77, 163, 212);
+    margin: auto;
+    max-width: 1200px;
+    min-width: 320px;
+    padding: 10px 50px 20px 50px;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 10px 15px 10px;
+    
+}
+
+main > iframe
+{
+    padding: 10px;
+}
+
+
+
+h1
+{
+    text-indent: 30px;
+    font-family: 'Jersey 10';
+    font-size: 70px;
+    margin-bottom: 0px;
+    
+}
+
+h2
+{
+    text-indent: 30px;
+    font-family: Orbitron;
+    font-weight: bold;
+    font-size: 28px;
+    background-image: linear-gradient(to left, transparent, rgb(11, 57, 83));
+    color: white;
+    border-radius: 3px;
+}
+
+h3
+{
+    text-indent: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 > a
+{
+    background: rgb(12, 100, 216);
+    color: black;
+    border-radius: 3px;
+    padding: 0px 5px;
+    text-decoration: none;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+
+}
+
+div.video
+{
+    background: rgb(11, 57, 83);
+    margin: 0px -50px;
+
+    position: relative;
+    padding-bottom: 500px;
+    
+}
+
+div.video > iframe
+{
+    position: absolute;
+
+    top: 1%;
+    left: 16%;
+    
+
+    width: 67%;
+    height: 98%;
+}
+
+section
+{
+    background: white;
+    border-radius: 10px;
+    padding-bottom: 0.5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.774);
+}
+
+section > h1
+{
+    background: rgb(11, 57, 83);
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+section > h3
+{
+        margin-left: 10px;
+        margin-right: 10px;
+}
+
+a
+{
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+}
+
+ul{
+    columns: 2;
+}
+
+li a 
+{
+    text-decoration: none;
+}
+
+abbr
+{
+    text-decoration: none;
+}
+
+li a:hover
+{
+    color: rgb(33, 151, 224);
+}
+
+footer > h1
+{
+    text-align: center;
+    background: rgb(17, 107, 160);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: white;
+    box-shadow: 0px 0px 10px 5px black;
+}
+
+
