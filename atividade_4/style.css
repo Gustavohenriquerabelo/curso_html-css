@@ -1,0 +1,30 @@
+
+
+
+div.quadrado
+{
+    display: inline-block;
+
+    width: 299px;
+    height: 300px;
+
+    border: solid 5px black;
+    border-radius: 10px;
+}
+
+div#q1
+{
+    background: skyblue;
+}
+
+div#q2
+{
+    background-color: coral;
+}
+
+div#q3
+{
+    background: rgba(128, 255, 0, 0.582);
+}
+
+
