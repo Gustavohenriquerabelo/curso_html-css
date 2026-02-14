@@ -5,4 +5,4 @@ Meus projetos do curso de HTML 5 e CSS3
 
 <a href="https://gustavohenriquerabelo.github.io/curso_html-css/atividade_2/pg1.html" class="lk">EXERCÍCIO 2</a>
 
-<a href="https://gustavohenriquerabelo.github.io/curso_html-css/atividade_3/pg1.html" class="lk">EXERCÍCIO 3</a>
+<a href="https://gustavohenriquerabelo.github.io/curso_html-css/projetocite_01/index.html" class="lk">EXERCÍCIO 3</a>
