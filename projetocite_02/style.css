@@ -1,2 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Orbitron:wght@400..900&family=Quintessential&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Meie+Script&family=Orbitron:wght@400..900&family=Quintessential&display=swap');
 
 
+body{
+    background-color: rgb(194, 194, 194);
+    margin: 0px 0px 0px 0px;
+}
+
+header
+{
+    background: #e7bd33;
+    text-align: center;
+    margin: 0px 0px 0px 0px ;
+    padding: 35px 20px;
+
+}
+
+h1
+{
+    margin: 0px 0px 10px 0px;
+    font-size: 60px;
+    font-family: Quintessential;
+}
+
+h2
+{
+    font-size: 34px;
+    width: 530px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 9%;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4{
+    margin: 0px;
+    font-size: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+   color: rgb(190, 129, 16);
+}
+
+main{
+    background: white;   
+    box-shadow: 1px 1px 9px;
+}
+
+article
+{
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    width: 500px;
+    padding: 20px;
+    border-radius: 0px 10px;
+    background: rgba(0, 0, 0, 0.267);
+    margin-left: 15%;
+    box-shadow: 3px 3px 10px;
+    font-family: Meie Script;
+}
+
+footer
+{
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    padding: 5px;
+    margin: 0px;
+}
