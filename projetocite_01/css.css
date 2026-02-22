@@ -40,6 +40,10 @@ h1#tx{
     border-radius: 10px;
     box-shadow: 5px 5px 10px;
 }
+h3#criador 
+{
+    font-size: 18px;
+}
 
 nav
 {
