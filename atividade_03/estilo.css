@@ -1,8 +1,14 @@
+body{
+    background-color: rgb(85, 83, 83);
+}
+
 main{
     text-align: center;
    border: solid black;
     margin: auto;
     width: 80%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
 }
 
 nav > h1{
@@ -16,20 +22,22 @@ nav > li{
     text-align: right;
     margin: auto;
     margin-right: 30px;
-    
-
 }
 
-nav{
+nav{ 
     display: flex;
     justify-content: space-between; 
     text-align: right;
-    border: solid black;
+    background: orange; 
+     border-radius: 9px 9px 0px 0px;
 }
 
 h1#busca{
     margin: 10px;
     border: solid black;
+    background-color: black;
+    color: beige;
+    border-radius: 5px;
 }
 header{
     border: solid black;
@@ -43,4 +51,78 @@ h1#destaque{
 img{
     margin: auto;
     margin-right: 20px;
+    width: 10%;
+    height: 25%;
 }
+
+p{
+    text-align: left;
+    margin-left: 20px;
+    width: 80%;
+    max-width: 600px;
+}
+
+section{
+    border: solid black;
+}
+
+section#horario{
+    display: flex;
+    justify-content: left;
+}
+
+h2{
+    text-align: left;
+    margin: auto;
+    margin-left: 30px;
+}
+
+span#horario{
+    border-right: solid black;
+}
+
+span#img{
+    display: flex;
+    text-align: left;
+    width: 100%;
+    max-width: 440px;
+   border-left: solid black;
+}
+
+h2#cardapio{
+    text-align: center;
+    margin: 10px;
+     border: solid black;
+      background-color: black;
+    color: beige;
+    border-radius: 5px;
+}
+
+span.cardapio{
+    display: flex;
+}
+
+h3.prato{
+    margin-right: 30%;
+    margin-left: 40px;
+}
+
+footer{
+    display: flex;
+}
+
+section#footer{
+    display: flex;
+    width: 90%;
+}
+
+img{
+    padding: 10px;
+    border: solid black;
+    border-radius: 5px;
+}
+ul{
+    font-size: 20px;
+}
+
+
